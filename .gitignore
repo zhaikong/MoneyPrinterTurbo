@@ -8,7 +8,6 @@
 /app/models/__pycache__/
 /app/utils/__pycache__/
 /*/__pycache__/*
-.vscode
 /**/.streamlit
 __pycache__
 logs/
@@ -34,3 +33,4 @@ debug_*.py
 test_*.py
 !test/services/test_*.py
 streamlit.log
+config.bat
